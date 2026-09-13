@@ -1,6 +1,3 @@
-# Arda
+### Everything here started as a problem I had. I fixed it the right way, then shared it in case someone else has the same problem.
 
-Everything here started as a problem I had. I fix it once, properly,
-then leave it out in case someone else runs into the same thing.
-
-Nothing here was planned. It just kept working.
+### I didn't plan any of this. It just kept working.
